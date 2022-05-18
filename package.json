@@ -1,6 +1,7 @@
 {
   "name": "countdowntimer",
   "version": "1.0.0",
+  "homepage": "https://Abdulrazak-Alahmad.github.io/CountdownTimer",
   "description": "",
   "main": "CountdownTimer.js",
   "scripts": {
@@ -17,6 +18,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Abdulrazak-Alahmad/CountdownTimer/issues"
-  },
-  "homepage": "https://Abdulrazak-Alahmad.github.io/CountdownTimer",
-}
+  }
+ }
